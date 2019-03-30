@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/workingDir/cpp/untitled2/main.cpp
+string
+-
+memory
+-
+map
+-
+iostream
+-
+iostream
+-
+memory
+-
+map
+-
+string
+-
+memory
+-
+map
+-
+iostream
+-
+

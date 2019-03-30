@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/workingDir/cpp/binary_tree2/main.cpp
+ostream
+-
+string
+-
+memory
+-
+iostream
+-
+sstream
+-
+regex
+-
+vector
+-
+

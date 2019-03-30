@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/workingDir/cpp/untitled/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+regex
+-
+cmath
+-
+algorithm
+-
+regex
+-
+

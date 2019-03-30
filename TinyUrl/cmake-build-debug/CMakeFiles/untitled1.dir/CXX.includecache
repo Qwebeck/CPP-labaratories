@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/workingDir/cpp/untitled1/main.cpp
+iostream
+-
+vector
+-
+regex
+-
+array
+-
+set
+-
+stdlib.h
+-
+time.h
+-
+vector
+-
+
