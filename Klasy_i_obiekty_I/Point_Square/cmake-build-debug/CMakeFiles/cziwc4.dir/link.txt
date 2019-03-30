@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cziwc4.dir/main.cpp.o CMakeFiles/cziwc4.dir/Point.cpp.o CMakeFiles/cziwc4.dir/Square.cpp.o  -o cziwc4 

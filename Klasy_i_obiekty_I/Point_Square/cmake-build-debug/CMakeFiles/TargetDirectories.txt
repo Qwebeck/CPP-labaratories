@@ -1,0 +1,3 @@
+/home/bohdan/workingDir/cpp/cziwc4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bohdan/workingDir/cpp/cziwc4/cmake-build-debug/CMakeFiles/cziwc4.dir
+/home/bohdan/workingDir/cpp/cziwc4/cmake-build-debug/CMakeFiles/edit_cache.dir

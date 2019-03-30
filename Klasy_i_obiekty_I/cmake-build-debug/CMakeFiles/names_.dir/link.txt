@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/names_.dir/main.cpp.o CMakeFiles/names_.dir/Name.cpp.o CMakeFiles/names_.dir/SimpleTemplateEngine.cpp.o CMakeFiles/names_.dir/SimpleUrl.cpp.o  -o names_ 

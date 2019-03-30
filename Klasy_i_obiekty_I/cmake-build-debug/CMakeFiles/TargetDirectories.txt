@@ -1,0 +1,3 @@
+/home/bohdan/JIMP2/names /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bohdan/JIMP2/names /cmake-build-debug/CMakeFiles/names_.dir
+/home/bohdan/JIMP2/names /cmake-build-debug/CMakeFiles/edit_cache.dir

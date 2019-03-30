@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/workingDir/cpp/cziwc4/Point.h
+
+/home/bohdan/workingDir/cpp/cziwc4/Square.cpp
+Square.h
+/home/bohdan/workingDir/cpp/cziwc4/Square.h
+vector
+-
+iostream
+-
+
+/home/bohdan/workingDir/cpp/cziwc4/Square.h
+vector
+-
+iostream
+-
+sstream
+-
+Point.h
+/home/bohdan/workingDir/cpp/cziwc4/Point.h
+
+/home/bohdan/workingDir/cpp/cziwc4/main.cpp
+memory
+-
+vector
+-
+iostream
+-
+sstream
+-
+Point.h
+/home/bohdan/workingDir/cpp/cziwc4/Point.h
+Square.h
+/home/bohdan/workingDir/cpp/cziwc4/Square.h
+
