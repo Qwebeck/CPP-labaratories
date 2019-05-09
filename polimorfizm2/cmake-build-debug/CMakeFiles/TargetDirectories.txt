@@ -1,0 +1,3 @@
+/home/bohdan/Projects/JIMP2/polimorfizm2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bohdan/Projects/JIMP2/polimorfizm2/cmake-build-debug/CMakeFiles/polimorfizm2.dir
+/home/bohdan/Projects/JIMP2/polimorfizm2/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/Projects/JIMP2/classes_and_objects/Marsjanin.h
+iostream
+-
+search.h
+-
+
+/home/bohdan/Projects/JIMP2/classes_and_objects/Matrix.h
+iostream
+-
+regex
+-
+complex
+-
+
+/home/bohdan/Projects/JIMP2/classes_and_objects/main.cpp
+iostream
+-
+Marsjanin.h
+/home/bohdan/Projects/JIMP2/classes_and_objects/Marsjanin.h
+Matrix.h
+/home/bohdan/Projects/JIMP2/classes_and_objects/Matrix.h
+list
+-
+

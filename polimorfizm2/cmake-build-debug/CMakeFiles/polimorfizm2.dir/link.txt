@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/polimorfizm2.dir/main.cpp.o CMakeFiles/polimorfizm2.dir/Provision.cpp.o  -o polimorfizm2 

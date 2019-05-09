@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/classes_and_objects.dir/main.cpp.o CMakeFiles/classes_and_objects.dir/Marsjanin.cpp.o CMakeFiles/classes_and_objects.dir/Matrix.cpp.o  -o classes_and_objects 

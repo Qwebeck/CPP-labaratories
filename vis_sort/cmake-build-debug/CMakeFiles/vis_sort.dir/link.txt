@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/vis_sort.dir/main.cpp.o  -o vis_sort 

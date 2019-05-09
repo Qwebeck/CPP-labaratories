@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/Projects/JIMP2/operatory/Student.h
+regex
+-
+string
+-
+StudyYear.h
+/home/bohdan/Projects/JIMP2/operatory/StudyYear.h
+
+/home/bohdan/Projects/JIMP2/operatory/StudentRepository.h
+experimental/optional
+-
+vector
+-
+Student.h
+/home/bohdan/Projects/JIMP2/operatory/Student.h
+
+/home/bohdan/Projects/JIMP2/operatory/StudyYear.h
+iostream
+-
+
+/home/bohdan/Projects/JIMP2/operatory/main.cpp
+iostream
+-
+regex
+-
+string
+-
+StudyYear.h
+/home/bohdan/Projects/JIMP2/operatory/StudyYear.h
+StudentRepository.h
+/home/bohdan/Projects/JIMP2/operatory/StudentRepository.h
+Student.h
+/home/bohdan/Projects/JIMP2/operatory/Student.h
+

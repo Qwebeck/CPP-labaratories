@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/polymorphizm.dir/main.cpp.o CMakeFiles/polymorphizm.dir/IterableIterator.cpp.o  -o polymorphizm 

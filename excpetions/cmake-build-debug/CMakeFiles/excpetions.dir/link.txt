@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/excpetions.dir/main.cpp.o CMakeFiles/excpetions.dir/MovieDvdSubtitles.cpp.o  -o excpetions 

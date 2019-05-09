@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/Projects/JIMP2/polymorphizm/IterableIterator.cpp
+IterableIterator.h
+/home/bohdan/Projects/JIMP2/polymorphizm/IterableIterator.h
+
+/home/bohdan/Projects/JIMP2/polymorphizm/IterableIterator.h
+utility
+-
+utility
+-
+vector
+-
+string
+-
+memory
+-
+
+/home/bohdan/Projects/JIMP2/polymorphizm/main.cpp
+iostream
+-
+IterableIterator.h
+/home/bohdan/Projects/JIMP2/polymorphizm/IterableIterator.h
+

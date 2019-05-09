@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/operatory.dir/main.cpp.o CMakeFiles/operatory.dir/Student.cpp.o CMakeFiles/operatory.dir/StudyYear.cpp.o CMakeFiles/operatory.dir/StudentRepository.cpp.o  -o operatory 

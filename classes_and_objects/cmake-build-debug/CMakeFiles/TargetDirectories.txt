@@ -1,0 +1,3 @@
+/home/bohdan/Projects/JIMP2/classes_and_objects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bohdan/Projects/JIMP2/classes_and_objects/cmake-build-debug/CMakeFiles/classes_and_objects.dir
+/home/bohdan/Projects/JIMP2/classes_and_objects/cmake-build-debug/CMakeFiles/edit_cache.dir

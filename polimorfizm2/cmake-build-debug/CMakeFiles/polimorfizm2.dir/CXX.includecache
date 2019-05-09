@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/Projects/JIMP2/polimorfizm2/Provision.cpp
+Provision.h
+/home/bohdan/Projects/JIMP2/polimorfizm2/Provision.h
+
+/home/bohdan/Projects/JIMP2/polimorfizm2/Provision.h
+vector
+-
+algorithm
+-
+iostream
+-
+

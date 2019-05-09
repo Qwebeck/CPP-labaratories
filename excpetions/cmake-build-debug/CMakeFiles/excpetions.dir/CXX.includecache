@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdan/Projects/JIMP2/excpetions/MovieDvdSubtitles.cpp
+MovieDvdSubtitles.h
+/home/bohdan/Projects/JIMP2/excpetions/MovieDvdSubtitles.h
+
+/home/bohdan/Projects/JIMP2/excpetions/MovieDvdSubtitles.h
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+regex
+-
+

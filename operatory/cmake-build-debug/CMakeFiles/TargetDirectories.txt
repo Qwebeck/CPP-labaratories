@@ -1,0 +1,3 @@
+/home/bohdan/Projects/JIMP2/operatory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bohdan/Projects/JIMP2/operatory/cmake-build-debug/CMakeFiles/operatory.dir
+/home/bohdan/Projects/JIMP2/operatory/cmake-build-debug/CMakeFiles/edit_cache.dir
